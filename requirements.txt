@@ -1,4 +1,5 @@
 scipy
-paddle
+paddlepaddle
 paddlespeech
 sounddevice
+SoundFile

@@ -1,7 +1,7 @@
+# _*_ coding: utf-8 _*_
 import threading
 import tkinter
 import tkinter.filedialog
-# _*_ coding: utf-8 _*_
 import tkinter.messagebox
 from scipy.io import wavfile
 import sounddevice as sd
